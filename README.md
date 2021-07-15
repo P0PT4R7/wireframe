@@ -1,5 +1,7 @@
-404
-File not found
+
+# 404
+
+   File not found
 
 The site configured at this address does not contain the requested file.
 
@@ -9,3 +11,5 @@ For root URLs (like http://example.com/) you must provide an index.html file.
 Read the full documentation for more information about using GitHub Pages.
 
 GitHub Status — @githubstatus
+
+</html
