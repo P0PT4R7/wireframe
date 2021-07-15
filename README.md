@@ -3,7 +3,7 @@
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-
+<script src="script.js"></script>
 <h1>404</h1>
 
    <p>File not found
@@ -18,5 +18,5 @@ Read the full documentation for more information about using GitHub Pages.
 GitHub Status — @githubstatus</p>
 </body>
 
-<script src="script.js"></script>
+
 </html>
