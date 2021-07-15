@@ -1,6 +1,6 @@
 <html>
 <head>
-<link rel="stylesheet" href="mystyle.css">
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
 
@@ -17,4 +17,4 @@ Read the full documentation for more information about using GitHub Pages.
 
 GitHub Status — @githubstatus</p>
 </body>
-</html
+</html>
