@@ -1,9 +1,6 @@
 <html>
 <head>
 <link rel="stylesheet" href="style.css">
-
-<script src="https://github.com/P0PT4R7/wireframe/blob/main/script.js"></script>
-   
 </head>
 <body>
 
@@ -21,4 +18,5 @@ Read the full documentation for more information about using GitHub Pages.
 GitHub Status — @githubstatus</p>
 </body>
 
+<script src="https://github.com/P0PT4R7/wireframe/blob/main/script.js"></script>
 </html>
