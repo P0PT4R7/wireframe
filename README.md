@@ -2,7 +2,7 @@
 <head>
 <link rel="stylesheet" href="style.css">
 
-   <script src=""></script>
+   <script src="https://github.com/P0PT4R7/wireframe/blob/main/script.js"></script>
    
 </head>
 <body>
