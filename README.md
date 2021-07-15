@@ -1,7 +1,12 @@
+<html>
+<head>
+<link rel="stylesheet" href="mystyle.css">
+</head>
+<body>
 
-# 404
+<h1>404</h1>
 
-   File not found
+   <p>File not found
 
 The site configured at this address does not contain the requested file.
 
@@ -10,6 +15,6 @@ For root URLs (like http://example.com/) you must provide an index.html file.
 
 Read the full documentation for more information about using GitHub Pages.
 
-GitHub Status — @githubstatus
-
+GitHub Status — @githubstatus</p>
+</body>
 </html
