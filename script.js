@@ -9,5 +9,10 @@ while (!userInput)
   {
     alert("lies!")
   }
+  else
+  {
+    alert("theres still nothing of interest here")
+    didWeGetInputWeWanted = true;
+  }
 }    
     
