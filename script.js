@@ -12,7 +12,7 @@ while (!userInput)
   else
   {
     alert("theres still nothing of interest here")
-    didWeGetInputWeWanted = true;
+    userInput = true;
   }
 }    
     
