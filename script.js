@@ -13,7 +13,6 @@ while (!userInput)
   {
     alert("theres still nothing of interest here")
     userInput = true;
-  }
 }    
 
 prompt ("I dont understand why youre still here"     
