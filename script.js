@@ -1,10 +1,12 @@
 prompt ("There is no page here");
 prompt ("Literally there isnt a page here just an error");
 prompt ("It probably wont be fix so you can go on your way");
-userInput = false;
+let userInput = false;
+console.log("userInput1"+ userInput)
 while (!userInput)
 {
   let userInput = prompt ("Oh you're still here")
+  console.log("userInput2 "+ userInput)
   if (userInput != 'yes')
   {
     alert("lies!")
@@ -14,6 +16,6 @@ while (!userInput)
     alert("theres still nothing of interest here")
     userInput = true;
   }
+  console.log("userInput3 "+ userInput)
 }    
-
 prompt ("I dont understand why youre still here")    
