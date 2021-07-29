@@ -14,7 +14,8 @@ while (!userInput)
   else
   {
     alert("theres still nothing of interest here")
-    userInput = true;
+    //userInput = true;
+    break;
   }
   console.log("userInput3 "+ userInput)
 }    
