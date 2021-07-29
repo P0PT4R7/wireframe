@@ -1,9 +1,9 @@
-prompt ("There is no page here");
-prompt ("Literally there isnt a page here just an error");
-prompt ("It probably wont be fix so you can go on your way");
+alert ("There is no page here");
+alert ("Literally there isnt a page here just an error");
+alert ("It probably wont be fix so you can go on your way");
 let userInput = false;
 console.log("userInput1"+ userInput)
-//while (!userInput)
+while (!userInput)
 {
   let userInput = prompt ("Oh you're still here")
   console.log("userInput2 "+ userInput)
@@ -14,8 +14,8 @@ console.log("userInput1"+ userInput)
   else
   {
     alert("theres still nothing of interest here")
-    //userInput = true;
-    break;
+    userInput = true;
+   
   }
   console.log("userInput3 "+ userInput)
 }    
