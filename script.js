@@ -1,6 +1,6 @@
-alert ("There is no page here");
-alert ("Literally there isnt a page here just an error");
-alert ("It probably wont be fix so you can go on your way");
+confirm ("There is no page here");
+confirm ("Literally there isnt a page here just an error");
+confirm ("It probably wont be fix so you can go on your way");
 let userInput = false;
 console.log("userInput1"+ userInput)
 while (!userInput)
