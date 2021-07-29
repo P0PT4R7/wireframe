@@ -7,7 +7,7 @@ while (!userInput)
 {
   let userInput = prompt ("Oh you're still here")
   console.log("userInput2 "+ userInput)
-  if (userInput != 'yes')
+  if (userInput == 'yes')
   {
     alert("lies!")
   }
